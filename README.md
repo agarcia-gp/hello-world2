@@ -1,2 +1,4 @@
 # hello-world2
-My second repository with my Genius Plaza account
+
+Hola! This is a small write-up as part of the tutorial.
+My second repository with my Genius Plaza account.
